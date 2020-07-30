@@ -1,17 +1,17 @@
-Hello | Olá | Привет 👋
+Hi | Olá | Привет 👋
 
-Apaixonadíssimo por Desenvolvimento Web e Robótica. Atualmente um membro da equipe Team ProdiXy que participa do FIRST Tech Challenge e da Olimpíada Brasileira de Robótica.
+I'm one begginer developer starting on web programming, currently, I'm a member of a robotic team that partipates in competitions like Olimpíada Brasileira de Robótica (OBR), FIRST Tech Challenge (FTC), FIRST Lego League (FLL) and recently the new one: FIRST Robotics Competition. I'm a medalist of Olimpíada Canguru de Matemática and Olimpíada Brasileira de Informática (OBI). I love things like that 🥰.
 
-- 🔭 I’m currently working.. Unity & C#
-- 🌱 I’m currently learning.. Typescript & NodeJS & ReactJS
-- 💬 Ask me about.. **everything that we can learn together**
-- 🎓 My objectives are.. be a better person *(and a developer)* each day 😄
+- 🔭 I’m currently working with.. Unity, C#, TypeScript, Python, SQL, Slack etc
+- 🌱 I’m currently learning about.. Computer Vision and Web Development
+- 💬 Ask me.. **everything that we can learn together** 🧐
+- 🎓 My objectives are.. be a better thinker *(and a developer)* each day 😄
 
-:octocat: Bora codar então!
+:octocat: So hands on code!
 
 ---
 
-Entre em contato! 📞
+Want talk about something? 🤙
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NKKFu)](https://github.com/NKKFu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-kenmochi-411a841a8/)](https://www.linkedin.com/in/nelson-kenmochi-411a841a8/)
