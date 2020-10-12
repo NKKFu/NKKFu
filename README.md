@@ -16,7 +16,7 @@ I'm one begginer developer starting on web programming, currently, I'm a member 
 ## 📝 Useless informations
   
 - Birth: 08/10/2004
-- Age: 14 years
+- Age: 16 years
 - Favorite Game: Rainbow Six Siege
 - Favorite Lang.: JavaScript
 - First Lang.: CSharp
