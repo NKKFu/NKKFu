@@ -8,7 +8,7 @@ Learning about Web Development, Security, Docker and GraphQL
 
 I'm a developer in many projects like Anime Fighters and Compre Sem Fila. In my free time, I'm always playing video games or programming some stuff. Trying to code almost everyday :octocat:
 
-![Nelson's github stats](https://github-readme-stats.vercel.app/api?username=NKKFu&show_icons=true)
+![Nelson's github stats](https://github-readme-stats.vercel.app/api?username=NKKFu&show_icons=true&count_private=true&theme=cobalt)
 
 💬 Want talk about something with me?
 
