@@ -10,8 +10,7 @@ I'm a developer in many projects like Anime Fighters and Compre Sem Fila. In my 
 
 ![Nelson's github stats](https://github-readme-stats.vercel.app/api?username=NKKFu&show_icons=true&count_private=true&theme=cobalt)
 
-💬 Want talk about something with me?
+Myself today:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-kenmochi-411a841a8/)](https://www.linkedin.com/in/nelson-kenmochi-411a841a8/)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nkkfu)](https://dev.to/nkkfu)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:nelsonkenmochi@gmail.com)
+![dog](https://user-images.githubusercontent.com/59903312/133368723-4aef1907-9b81-47b2-85a4-8d73686646fd.png)
+
