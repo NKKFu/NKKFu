@@ -1,9 +1,17 @@
 ### Hi folks 👋
 
-My name is Nelson Keiji Kenmochi Filho, I have eighteen years old and I am currently living in Manaus, Amazonas in Brazil. I enjoy my free time playing some FPS games or developing cool and interesting stuff.
+I’m a passionate Full Stack Developer with a strong background in building robust and scalable software solutions. My experience spans startups, research institutes, and independent projects, ranging from online games with tens of thousands of users to advanced enterprise systems.
 
-I'm a medalist/alumni of some robotics competitions such as Olimpíada Brasileira de Robótica (OBR), FIRST Tech Challenge (FTC), FIRST Lego League (FLL), Olimpíada Canguru de Matemática and Olimpíada Brasileira de Informática (OBI). I also have a electrotechnical formation.
+💡 Technologies I excel in:
 
-Currently working with Unity, C#, TypeScript, Docker, Python, SQL and a bunch of cool stuff
+Front-end: ReactJS, React Native, TypeScript, SCSS, PWA development.
+Back-end: Python (Django, FastAPI, Flask), C#, ExpressJS, PHP, and more.
+Infrastructure: Docker, AWS, Google Cloud, CI/CD, Redis, PostgreSQL.
+🌟 Highlights of My Work:
 
-Learning about Horizontal Scaling, Multiplayer Development, Security, GraphQL and real life of course
+Optimized data pipelines handling millions of rows weekly.
+Developed anti-cheat systems and secure solutions for games.
+Introduced best practices like Code Reviews, SOLID, and Continuous Integration to improve team efficiency and code quality.
+🚀 I’m always looking for new challenges and opportunities to grow while making impactful contributions.
+
+🛠️ Let’s connect and collaborate! Explore my repositories or get in touch.
